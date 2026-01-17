@@ -1,0 +1,19 @@
+Binary Tree Traversal in Python
+
+This is a simple Python program that shows how a binary tree works.
+It creates a small binary tree and prints its inorder, preorder,
+and postorder traversals.
+
+The tree used in this program looks like this:
+
+        1
+       / \
+      2   3
+     / \
+    4   5
+
+When you run the program, you will see:
+- Inorder traversal
+- Preorder traversal
+- Postorder traversal
+
